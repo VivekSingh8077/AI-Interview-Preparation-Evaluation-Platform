@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
+
+# Env
+.env
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Models / data artifacts
+models/*.pt
+models/*.joblib
+*.log
+
+# OS
+.DS_Store
