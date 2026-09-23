@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Interview Evaluation & Feedback System
 
 An NLP/Transformer-based mock interview platform that evaluates candidate
@@ -171,3 +172,6 @@ phrasing, not the core scoring logic. Sample/seed data used during
 development is clearly distinguished from real evaluation results;
 no experimental accuracy/F1/MAE numbers are fabricated — they will be
 computed from actual runs once the relevant module is implemented.
+=======
+# AI-Interview-Preparation-Evaluation-Platform
+>>>>>>> c9d7868f5fd64366d42109df41b7092cfca5a2cd
